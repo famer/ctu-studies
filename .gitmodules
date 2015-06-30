@@ -1,0 +1,9 @@
+[submodule "knapsack-and-max-sat"]
+	path = knapsack-and-max-sat
+	url = git@github.com:famer/knapsack-and-max-sat.git
+[submodule "MIE-W20-nodejs-projects"]
+	path = MIE-W20-nodejs-projects
+	url = git@github.com:famer/MIE-W20-nodejs-projects.git
+[submodule "MPI-project"]
+	path = MPI-project
+	url = git@github.com:famer/MPI-project.git
