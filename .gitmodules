@@ -7,3 +7,6 @@
 [submodule "MPI-project"]
 	path = MPI-project
 	url = git@github.com:famer/MPI-project.git
+[submodule "MIE-SPI-statistics-for-informatics"]
+	path = MIE-SPI-statistics-for-informatics
+	url = git@github.com:famer/MIE-SPI-statistics-for-informatics.git
