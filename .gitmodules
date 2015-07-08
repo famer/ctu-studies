@@ -13,3 +13,6 @@
 [submodule "MIE-MWD-java-middleware"]
 	path = MIE-MWD-java-middleware
 	url = git@github.com:famer/MIE-MWD-java-middleware.git
+[submodule "MIE-MDW-java-middleware"]
+	path = MIE-MDW-java-middleware
+	url = git@github.com:famer/MIE-MDW-java-middleware.git
